@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form{
+    position: absolute;
+    border: 1px solid black;
+    padding: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+form label{
+    font-size: 12px;
+    font-weight: bolder;
+}
+form button{
+    width: 120px;
+    height: 30px;
+    font-weight: bolder;
+    font-size: 12px;
+}
+form input{
+    height: 25px;
+}
+
+form p{
+    font-size: 10px;
+}
